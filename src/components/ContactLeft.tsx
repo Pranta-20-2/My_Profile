@@ -15,7 +15,7 @@ const ContactLeft = () => {
           Frontend Developer || MERN Stack Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          I'm a recent graduate with a strong passion for technology, actively seeking opportunities in the IT industry. With a diverse skill set in programming languages and a keen interest in staying updated with the latest trends, I bring a forward-thinking approach to my work. Excited to contribute my energy and skills to the dynamic world of IT.
+          I'm a frontend-focused MERN junior developer, passionate about technology and eager to make an impact with a strong foundation in the MERN stack. I thrive on challenges and enjoy crafting dynamic, user-friendly web applications. Committed to continuous learning and staying updated with industry trends, I bring innovative solutions through my problem-solving skills and creative approach. As a team player, I value collaboration and effective communication and am excited to contribute my skills to the IT industry.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+880 1863-618432</span>
