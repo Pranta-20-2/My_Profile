@@ -11,7 +11,7 @@ AOS.init({
   mirror: false,
 });
 
-const ProjectsCard = ({ project }) => {
+const ProjectsCard = ({ project }: any) => {
   const [hover, setHover] = useState(false);
   const { img, title, des, technologies, ClientLink, ServerLink, LiveLink } = project;
 
