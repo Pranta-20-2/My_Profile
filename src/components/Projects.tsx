@@ -25,7 +25,7 @@ const Projects = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-1 xl:grid-cols-3 gap-6 xl:gap-14">
           {
-            projects.map(project => <ProjectsCard key={project.id} project={project}></ProjectsCard>)
+            projects.map((project, id) => <ProjectsCard key={id} project={project}></ProjectsCard>)
           }
         </div>
       </FadeIn>

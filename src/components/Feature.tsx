@@ -1,6 +1,5 @@
 import { AiFillAppstore } from "react-icons/ai";
-import { FaGlobe } from "react-icons/fa";
-import { SiAntdesign, SiBmcsoftware, SiWebtrees } from "react-icons/si";
+import { SiAntdesign, SiBmcsoftware } from "react-icons/si";
 import { CiDatabase } from "react-icons/ci";
 import Card from "./Card";
 import Title from "./Title";
