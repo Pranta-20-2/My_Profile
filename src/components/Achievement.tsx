@@ -17,13 +17,14 @@ const Achievement = () => {
             title="Deans Award"
             subTitle="At my university, I have received the Dean's Lead Award five times based on my semester results."
             result="Success"
+            year=""
             
           />
           <ResumeCard
             title="Club Achievement"
             subTitle="As the Assistant General Secretary of the Public Relations team of the AIUB Computer Club, I develop communication skills, leadership skills, and handle pressure. With the help of the club, I organize numerous events such as AIUB CS Fest, Cyber Gaming Fest, and Jarvis, which are flagship events of our club."
             result="Success"
-            des=""
+            year=""
           />
         </div>
       </div>
@@ -36,13 +37,13 @@ const Achievement = () => {
             title="Data Science Course"
             subTitle="I successfully completed the Ostad Data Science course, including all relevant details and the certificate link, which are provided in my CV."
             result="Success"
-            des=""
+            year=""
           />
           <ResumeCard
             title="Web Development Course"
             subTitle="I have been passionate about development since my university days, which led me to complete the Web Development course at Programming Hero. This course provided me with strong knowledge of MERN development and significantly enhanced my skills."
             result="Success"
-            des=""
+            year=""
           />
         </div>
       </div>
