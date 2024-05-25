@@ -1,5 +1,3 @@
-"use client";
-
 import { createContext, useContext } from "react";
 import { motion, useReducedMotion } from "framer-motion";
 
@@ -14,10 +12,10 @@ export function FadeIn(props: any) {
   return (
     <motion.div
       variants={{
-        hidden: { opacity: 0, y: shouldReduceMotion ? 0 : 24 },
-        visible: { opacity: 1, y: 0 },
+        hidden: { opacity: 0, y: shouldReduceMotion ? 0 : 50 },
+        visible: { opacity: 1.5, y: 0 },
       }}
-      transition={{ duration: 0.5 }}
+      transition={{ duration: 1 }}
       {...(isInStaggerGroup
         ? {}
         : {

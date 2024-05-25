@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "img":"https://i.ibb.co/VB21C07/Craft.jpg",
+        "title":"Craft Palace - Fullstack Project",
+        "des":"An art and craft page for creating, buying, and selling curated pieces, offering clients direct purchase from the website.",
+        "technologies": "HTML5, TAILWIND CSS, REACT JS, FIREBASE, RECAT HOOK, NODE JS, EXPRESS JS, VERCEL, MONGO DB",
+        "ClientLink":"https://github.com/Pranta-20-2/Craft_Palace_Client",
+        "ServerLink":"https://github.com/Pranta-20-2/Craft_Palace_Server",
+        "LiveLink": "https://art-craft-store-919cb.web.app/"
+        
+
+    },
+    {
+        "id": 2,
+        "img":"https://i.ibb.co/r6DTCPk/QuCome.png",
+        "title":"QuCome Blog - Fullstack Project",
+        "des":" A blog page for browsing by category, adding to wishlist, and highlighting longest entries for easy discovery and access.",
+        "technologies": "HTML5, TAILWIND CSS, REACT JS, FIREBASE, RECAT HOOK, NODE JS, EXPRESS JS, VERCEL, MONGO DB",
+        "ClientLink":"https://github.com/Pranta-20-2/QuCome_Blog",
+        "ServerLink":"https://github.com/Pranta-20-2/QuCome_Blog_Server",
+        "LiveLink": "https://solosphere-86e7a.web.app/"
+        
+
+    },
+    {
+        "id": 3,
+        "img":"https://i.ibb.co/4Kn07dG/Real-State.png",
+        "title":"Real State Project",
+        "des":" Develop a responsive real estate page with house details, cart management, profile updates, and Firebase Authentication.",
+        "technologies": " REACT, FIREBASE, JAVASCRIPT HTML5, CSS, TAILWIND CSS, SURGE",
+        "ClientLink":"https://github.com/Pranta-20-2/Real-State-Project",
+        "ServerLink": null,
+        "LiveLink": "https://realstate-project-63070.web.app/"
+        
+
+    },
+    {
+        "id": 4,
+        "img":"https://i.ibb.co/g7zXhLL/Book.png",
+        "title":"BOOK LIBRARY",
+        "des":" In this project, users choose books, save to wish or read lists, and view sorted lists by their preferences.",
+        "technologies": "REACT, JAVASCRIPT HTML5, CSS, TAILWIND CSS, SURGE ",
+        "ClientLink":"https://github.com/Pranta-20-2/Book_Library",
+        "ServerLink": null,
+        "LiveLink": "https://pr-ass-8-book-library.surge.sh/books"
+        
+
+    },
+    {
+        "id": 5,
+        "img":"https://i.ibb.co/r6DTCPk/QuCome.png",
+        "title":"QuCome Blog - Fullstack Project",
+        "des":" Here Users choose food, add to preparing list, calculate total time and calories, and prevent duplicate entries in the cook chart.",
+        "technologies": "REACT, JAVASCRIPT HTML5, CSS, TAILWIND CSS, SURGE ",
+        "ClientLink":"https://github.com/Pranta-20-2/QuCome_Blog",
+        "ServerLink":"https://github.com/Pranta-20-2/QuCome_Blog_Server",
+        "LiveLink": "https://solosphere-86e7a.web.app/"
+        
+
+    },
+    {
+        "id": 6,
+        "img":"https://i.ibb.co/r6DTCPk/QuCome.png",
+        "title":"QuCome Blog - Fullstack Project",
+        "des":" A blog page for browsing by category, adding to wishlist, and highlighting longest entries for easy discovery and access.",
+        "technologies": "HTML5, TAILWIND CSS, REACT JS, FIREBASE, RECAT HOOK, NODE JS, EXPRESS JS, VERCEL, MONGO DB",
+        "ClientLink":"https://github.com/Pranta-20-2/QuCome_Blog",
+        "ServerLink":"https://github.com/Pranta-20-2/QuCome_Blog_Server",
+        "LiveLink": "https://solosphere-86e7a.web.app/"
+        
+
+    },
+    {
+        "id": 7,
+        "img":"https://i.ibb.co/r6DTCPk/QuCome.png",
+        "title":"QuCome Blog - Fullstack Project",
+        "des":" A blog page for browsing by category, adding to wishlist, and highlighting longest entries for easy discovery and access.",
+        "technologies": "HTML5, TAILWIND CSS, REACT JS, FIREBASE, RECAT HOOK, NODE JS, EXPRESS JS, VERCEL, MONGO DB",
+        "ClientLink":"https://github.com/Pranta-20-2/QuCome_Blog",
+        "ServerLink":"https://github.com/Pranta-20-2/QuCome_Blog_Server",
+        "LiveLink": "https://solosphere-86e7a.web.app/"
+        
+
+    },
+    {
+        "id": 8,
+        "img":"https://i.ibb.co/r6DTCPk/QuCome.png",
+        "title":"QuCome Blog - Fullstack Project",
+        "des":" A blog page for browsing by category, adding to wishlist, and highlighting longest entries for easy discovery and access.",
+        "technologies": "HTML5, TAILWIND CSS, REACT JS, FIREBASE, RECAT HOOK, NODE JS, EXPRESS JS, VERCEL, MONGO DB",
+        "ClientLink":"https://github.com/Pranta-20-2/QuCome_Blog",
+        "ServerLink":"https://github.com/Pranta-20-2/QuCome_Blog_Server",
+        "LiveLink": "https://solosphere-86e7a.web.app/"
+        
+
+    },
+    {
+        "id": 9,
+        "img":"https://i.ibb.co/r6DTCPk/QuCome.png",
+        "title":"QuCome Blog - Fullstack Project",
+        "des":" A blog page for browsing by category, adding to wishlist, and highlighting longest entries for easy discovery and access.",
+        "technologies": "HTML5, TAILWIND CSS, REACT JS, FIREBASE, RECAT HOOK, NODE JS, EXPRESS JS, VERCEL, MONGO DB",
+        "ClientLink":"https://github.com/Pranta-20-2/QuCome_Blog",
+        "ServerLink":"https://github.com/Pranta-20-2/QuCome_Blog_Server",
+        "LiveLink": "https://solosphere-86e7a.web.app/"
+        
+
+    },
+    {
+        "id": 10,
+        "img":"https://i.ibb.co/r6DTCPk/QuCome.png",
+        "title":"QuCome Blog - Fullstack Project",
+        "des":" A blog page for browsing by category, adding to wishlist, and highlighting longest entries for easy discovery and access.",
+        "technologies": "HTML5, TAILWIND CSS, REACT JS, FIREBASE, RECAT HOOK, NODE JS, EXPRESS JS, VERCEL, MONGO DB",
+        "ClientLink":"https://github.com/Pranta-20-2/QuCome_Blog",
+        "ServerLink":"https://github.com/Pranta-20-2/QuCome_Blog_Server",
+        "LiveLink": "https://solosphere-86e7a.web.app/"
+        
+
+    }
+
+]

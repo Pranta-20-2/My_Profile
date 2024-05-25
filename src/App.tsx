@@ -14,10 +14,10 @@ function App() {
       <div className="px-4">
         <div className="max-w-screen-xl mx-auto">
           <Banner />
-          <Feature />
+      
           <Projects />
           <Resume />
-          <Testimonial />
+          <Feature />
           <Contact />
           <Footer />
         </div>
