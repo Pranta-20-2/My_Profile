@@ -50,12 +50,12 @@
     {
         "id": 5,
         "img":"https://i.ibb.co/r6DTCPk/QuCome.png",
-        "title":"QuCome Blog - Fullstack Project",
+        "title":"Got Recipe",
         "des":" Here Users choose food, add to preparing list, calculate total time and calories, and prevent duplicate entries in the cook chart.",
         "technologies": "REACT, JAVASCRIPT HTML5, CSS, TAILWIND CSS, SURGE ",
-        "ClientLink":"https://github.com/Pranta-20-2/QuCome_Blog",
-        "ServerLink":"https://github.com/Pranta-20-2/QuCome_Blog_Server",
-        "LiveLink": "https://solosphere-86e7a.web.app/"
+        "ClientLink":"https://github.com/Pranta-20-2/GOT_Recipe_React",
+        "ServerLink": null,
+        "LiveLink": "https://pr-assignment-07.surge.sh/"
         
 
     },

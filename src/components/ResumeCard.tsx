@@ -1,4 +1,4 @@
-const ResumeCard = ({ title, subTitle, result, year }:any) => {
+const ResumeCard = ({ title, subTitle, result, year }: any) => {
   return (
     <div className="w-full h-1/3 group flex">
       <div className="w-10 h-[6px] bgOpacity mt-16 relative">
