@@ -9,7 +9,7 @@ const Education = () => {
       className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
     >
       {/* part one */}
-      <div className="w-1/2">
+      <div className="w-full md:w-1/2">
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2017 - 2024</p>
           <h2 className="text-3xl md:text-4xl font-bold">Education Quality</h2>
@@ -39,7 +39,7 @@ const Education = () => {
       </div>
       {/* part Two */}
 
-      <div className="w-1/2">
+      <div className="w-full md:w-1/2">
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">Feb 2024 - April 2024</p>
           <h2 className="text-3xl md:text-4xl font-bold">Work Experience</h2>
