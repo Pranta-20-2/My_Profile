@@ -41,10 +41,16 @@ const Education = () => {
 
       <div className="w-full md:w-1/2">
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">Feb 2024 - April 2024</p>
+          <p className="text-sm text-designColor tracking-[4px]">Feb 2024 - Running</p>
           <h2 className="text-3xl md:text-4xl font-bold">Work Experience</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+          <ResumeCard
+            title="Software Engineer"
+            subTitle="Japan Bangladesh (JB) Connect Limited"
+            result="Bangladesh"
+            year="Here i am working as a Software Engineer. INITALLY I AM WORKING IN THE XIM PROJECT WHICH IS CALL CENTER BASED PROJECT AND I AM WORKING AS A FRONTEND DEVELOPER. HERE I AM WORKING WITH THE REACTJS, REDUX, TAILWIND CSS, JAVASCRIPT, HTML, CSS, AND ALSO WORKING WITH THE REST API. NOW I AM WORKING ON CMS OWLET PROJECT WHICH IS A CMS BASED PROJECT."	
+          />
           <ResumeCard
             title="App & Web Developer Trainee"
             subTitle="Intern at Programee"

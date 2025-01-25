@@ -6,9 +6,9 @@ import Achievement from "./Achievement";
 import { FadeIn } from "./FadeIn";
 
 const Resume = () => {
-  const [educationData, setEducationData] = useState<Boolean>(true);
-  const [skillData, setSkillData] = useState<Boolean>(false);
-  const [achievementData, setAchievementData] = useState<Boolean>(false);
+  const [educationData, setEducationData] = useState<boolean>(true);
+  const [skillData, setSkillData] = useState<boolean>(false);
+  const [achievementData, setAchievementData] = useState<boolean>(false);
   return (
     <section
       id="resume"

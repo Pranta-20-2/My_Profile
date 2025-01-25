@@ -6,7 +6,7 @@ import { FadeIn } from "./FadeIn";
 import Tilt from 'react-parallax-tilt';
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Frontend Developer.", "Full Stack Developer.", "MERN Stack Developer."],
+    words: ["Software Engineer","Frontend Developer.", "Full Stack Developer.", "MERN Stack Developer."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
